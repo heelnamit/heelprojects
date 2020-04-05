@@ -1,4 +1,4 @@
-# heelprojects
-I have uploaded my Project called Privana. It is basically a PG or flight booking site.
-I have used PHP , MYSQL for backend and HTML , CSS , JAVASCRIPT , Jquery, Bootstraps.
+# PRIVANA
+web development files are here for a PG or flight booking site.
+The site uses PHP , MYSQL for backend and HTML , CSS , JAVASCRIPT , Jquery, Bootstraps for front-end.
 FinalProject.php is starting page of the project.
